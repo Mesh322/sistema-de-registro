@@ -2,4 +2,8 @@
 
 - estado del royecto en construccion
 
-- 
+para ejecutar el sistema debes de poner :
+
+npm install react
+
+
